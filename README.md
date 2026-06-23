@@ -1,146 +1,179 @@
-<h1 align="center">Hi 👋, I'm Narayana Yanamadala</h1>
-<h3 align="center">Python Full Stack Developer | Django | React.js | REST APIs</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Full+Stack+Developer;Django+Developer;React.js+Developer;REST+API+Builder;Open+Source+Learner&center=true&width=500&height=50">
-</p>
+# Hi 👋, I'm Narayana Yanamadala
+
+### Python Full Stack Developer | Django | React.js | REST APIs
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+REST+Framework+Developer;React.js+Frontend+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=narayana-yanamadala&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech Graduate in Computer Science
+🎓 Electronics & Communication Engineering Graduate
 
-💻 Passionate Full Stack Developer
+💻 Passionate Python Full Stack Developer
 
-🌱 Currently learning Advanced Django, React.js & Cloud Technologies
+🌱 Currently exploring Cloud Technologies & Advanced Django
 
-🔭 Building scalable web applications using Django & React
+🔭 Building Full Stack Applications with Django & React
 
-⚡ Strong foundation in DSA, OOP, DBMS, and REST APIs
+⚡ Strong in Python, REST APIs, DBMS, OOP, and DSA
 
 📍 Andhra Pradesh, India
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,mysql" />
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+</p>
 
 ### Backend
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=django" />
+</p>
 
-### Database
+### Tools & Platforms
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws" />
+</p>
 
 ---
 
-## 💼 Featured Projects
+## 🌟 Featured Projects
+
+### 🎬 CineRush – Movie Ticket Booking System
+
+🔹 OTP Authentication using Twilio
+
+🔹 Real-Time Seat Booking
+
+🔹 TMDB Movie Integration
+
+🔹 PDF Ticket Generation
+
+🔹 Responsive UI
+
+**Tech Stack:** React.js • Django • DRF • JWT • TMDB API
+
+---
 
 ### 🛒 ShopEase – E-Commerce Platform
 
-✅ JWT Authentication
+🔹 JWT Authentication
 
-✅ Role-Based Access Control
+🔹 Razorpay Payment Gateway
 
-✅ Razorpay Payment Integration
+🔹 Shopping Cart & Checkout
 
-✅ Cart & Checkout System
+🔹 Role-Based Access
 
-✅ REST APIs using Django
+🔹 Product Management APIs
 
-**Tech Stack:** React.js, Django, MySQL, Razorpay
+**Tech Stack:** React.js • Django • MySQL • Razorpay
 
 ---
 
 ### 📊 ProFlow – Project Management System
 
-✅ Task Assignment
+🔹 Project & Task Tracking
 
-✅ Project Tracking
+🔹 Employee Dashboard
 
-✅ Employee & Admin Dashboard
+🔹 Admin Dashboard
 
-✅ Protected Routes
+🔹 Team Workload Monitoring
 
-✅ Team Workload Monitoring
+🔹 Role-Based Permissions
 
-**Tech Stack:** React.js, Django REST Framework
-
----
-
-### 🎬 CineRush – Movie Ticket Booking System
-
-✅ Movie Listings
-
-✅ Seat Selection
-
-✅ Ticket Booking
-
-✅ OTP Authentication
-
-✅ Responsive UI
-
-**Tech Stack:** React.js, Django, TMDB API
+**Tech Stack:** React.js • Django REST Framework
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narayana-yanamadala&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narayana-yanamadala&theme=tokyonight" />
-</p>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=narayana-yanamadala&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayana-yanamadala&layout=compact&theme=tokyonight" />
-</p>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=narayana-yanamadala&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayana-yanamadala&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🏆 Certifications
+## 🏆 Achievements
 
-🏅 Python Full Stack Developer – Teks Academy
+🏅 Python Full Stack Developer Certification – Teks Academy
 
 🏅 Python Programming – HackerRank
 
-🏅 Front-End Development with HTML – Great Learning
+🏅 Front-End Development – Great Learning
+
+🏅 Built Multiple Full Stack Projects using Django & React
 
 ---
 
-## 📫 Connect With Me
+## 📚 Currently Learning
 
-<p align="left">
-<a href="https://github.com/narayana-yanamadala"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
-<a href="https://www.linkedin.com/in/narayanayanamadala"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:narayanayy448@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"></a>
-</p>
+```python
+learning = [
+    "Advanced Django",
+    "React Ecosystem",
+    "AWS Cloud",
+    "System Design",
+    "Data Structures & Algorithms"
+]
+```
 
 ---
+
+## 🌐 Connect With Me
 
 <p align="center">
-⭐ "Code. Learn. Build. Repeat." ⭐
+<a href="https://github.com/narayana-yanamadala">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/narayanayanamadala">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:narayanayy448@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
+</a>
 </p>
+
+---
+
+<div align="center">
+
+### 💡 "Turning Ideas into Scalable Web Applications"
+
+⭐ If you like my work, consider starring my repositories ⭐
+
+</div>
